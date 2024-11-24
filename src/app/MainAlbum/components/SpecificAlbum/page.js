@@ -26,3 +26,4 @@ const SpecificAlbum = ({ albumName }) => {
 };
 
 export default SpecificAlbum;
+

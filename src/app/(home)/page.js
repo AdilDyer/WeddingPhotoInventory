@@ -8,9 +8,9 @@ const Home = () => {
   return (
     <div className="home">
       <div className="heading">
-        <h1>Shimpi</h1>
+        <h1>Mr. Sherlock </h1>
         <h1>Weds</h1>
-        <h1>Abhishek</h1>
+        <h1>Mrs. Sherlock</h1>
         <p style={{ margin: 0, textDecoration: "underline  0.01rem brown " }}>
           23rd November 2024
         </p>
